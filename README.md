@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ocatarama
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me: catarama.ovidiu66@gmail.com
 
 <!---
